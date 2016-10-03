@@ -12,6 +12,7 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_SHARED_LIBRARIES := \
     libutils \
+    liblog \
     libcutils \
     liblog \
     libgps.utils \
